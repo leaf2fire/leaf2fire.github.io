@@ -1,18 +1,28 @@
 ---
 layout: page
 title: About
-permalink: /about/
+permalink: /about
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+# Author
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+The author is Evan Lee. He likes to learn. 
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+**Aliases**: `evnL`, `evn`, `leaf2fire`
 
+# Site Overview
 
-[jekyll-organization]: https://github.com/jekyll
+| Section | Description |
+| --- | --- |
+| [Home][home] | The front page. |
+| [About][about] | This page. |
+| (Principles) | Guiding principles. The axioms and rules to live by. |
+| (Curiosity) | Spontaneous content. Interesting things. |
+| (Collections) | Organized content. More organized than Curiosity. |
+| (Projects) | Project landing pages. |
+| (Professional) | Resume, Curriculum Vitae, Portfolio. |
+
+**Note**: (*section*) is currently unavailable.
+
+[home]: /
+[about]: /about
