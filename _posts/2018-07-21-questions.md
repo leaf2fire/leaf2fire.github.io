@@ -46,6 +46,19 @@ Questions related to a specific domain or tool.
 
 # Inactive Questions
 
+**JavaScript Essentials**
+
+* [nodejs](https://nodejs.org/)
+* [npmjs](https://www.npmjs.com/)
+* [bower](https://bower.io/)
+* [reactjs](https://reactjs.org/)
+* [TypeScript](https://www.typescriptlang.org/)
+
+**Programming languages style guides and best practices.**
+
+* `C++` [C++ Core Guidelines][CppCoreGuide]
+* `JavaScript` [Airbnb JavaScript Style Guide][AirbnbJSStyle]
+
 **Use Super instead of Alt in Xmonad keybindings.**
 
 Add `modMask = mod4Mask`.
@@ -60,6 +73,11 @@ why these properties may be desirable. First, it is easy on the legs. The
 softness of the carpet absorbs a good amount of impact when walking.
 Additionally, it is not too soft to lose balance. Second, carpet feels
 interesting to walk on. Carpets come in many different textures that can be felt
-either barefoot or through a pair of thin socks.
+either barefoot or through a pair of thin enough socks. ...
+
+I can argue for carpet all I want, but as soon as I find tackless strips across
+my thresholds is the moment I despise carpet. Just give me hard floors and rugs.
 
 [ArchXmonad]: https://wiki.archlinux.org/index.php/Xmonad#Configuration
+[CppCoreGuide]: http://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines
+[AirbnbJSStyle]: https://github.com/airbnb/javascript

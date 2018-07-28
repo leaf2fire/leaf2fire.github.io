@@ -12,13 +12,16 @@ maintaining and training my body.
 
 **Current Routine MWF**
 
+For any exercise, if fatigued or unable to keep pace, move to an easier
+progression.
+
 **CSRR** | **Exercise**
 :---: | ---
 A/3/5/90s | Pistol squats.
 A/3/5/90s | Arch hangs. Hold at the top for 2s.
-B/3/8/90s | Single legged deadlift. Do slowly. Focus on form, ROM, and balance.
+B/3/8/90s | Single legged deadlift. Isolate movements.
 B/3/12/90s | Assisted dips on parallettes. Elbows in.
-C/3/5/90s | Tucked planche pushups on parallettes.
+C/3/5/90s | Tucked planche pushups. Keep elbows on top of hands.
 C/3/5/90s | Incline rows.
 D/3/5/60s | Hanging leg raises.
 D/3/8/60s | Copenhagen twist. Start with Copenhagen plank and twist to touch opposite elbow to ground and back to plank. Core should remain static.

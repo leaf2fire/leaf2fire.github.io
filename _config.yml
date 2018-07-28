@@ -1,9 +1,10 @@
 title: evnL
 description: >
-  Irrationally rational. Meta-learning. Efficiency and creativity. Perception
-  and curiosity. Welcome to the mind of evnL.
-baseurl: "" 
-url: "" 
+  A pragmatic philosopher and efficient ergonomist's irrationally rational
+  ramblings on meta-learning, efficiency, creativity, perception, and curiosity.
+
+baseurl: ""
+url: "https://evnl.me"
 
 author: &author "Evan Lee"
 email: evnl.business@gmail.com
