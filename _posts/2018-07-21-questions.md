@@ -46,6 +46,29 @@ Questions related to a specific domain or tool.
 
 # Inactive Questions
 
+**Timer that doesn't require you to look at it to tell the time and isn't annoying either.**
+
+**Every kitchen counter needs a small hole to discard scraps and other trash into.**
+
+**Device that detects a notifies you that your toilet has not flushed correctly
+  and is wasting water.**
+
+**Counting without subvocalization.**
+
+**Reasons someone might be staring at a wall.**
+
+**What is the resolution of human vision?**
+
+
+
+**Kinds of flushes toilets should have.**
+
+Big and small. Save water.
+
+**How long can sea turtles stay under water?**
+
+Around 5-40 minutes while foraging and 4-7 hours while resting ([Wikipedia][SeaTurtleUnderWater]).
+
 **JavaScript Essentials**
 
 * [nodejs](https://nodejs.org/)
@@ -81,3 +104,4 @@ my thresholds is the moment I despise carpet. Just give me hard floors and rugs.
 [ArchXmonad]: https://wiki.archlinux.org/index.php/Xmonad#Configuration
 [CppCoreGuide]: http://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines
 [AirbnbJSStyle]: https://github.com/airbnb/javascript
+[SeaTurtleUnderWater]: https://en.wikipedia.org/wiki/Sea_turtle#Diving_physiology

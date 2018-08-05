@@ -6,7 +6,7 @@ permalink: /about
 
 # Author
 
-The author is Evan Lee. He likes to learn. 
+The author is Evan Lee. He likes to learn.
 
 **Aliases**: `evnL`, `evn`, `leaf2fire`
 
@@ -17,8 +17,8 @@ The author is Evan Lee. He likes to learn.
 | [Home][home] | The front page. |
 | [About][about] | This page. |
 | (Principles) | Guiding principles. The axioms and rules to live by. |
-| (Curiosity) | Spontaneous content. Interesting things. |
-| (Collections) | Organized content. More organized than Curiosity. |
+| [Curiosity][curio] | Seemingly random interests. |
+| (Collections) | Organized content. |
 | (Projects) | Project landing pages. |
 | (Professional) | Resume, Curriculum Vitae, Portfolio. |
 
@@ -26,3 +26,4 @@ The author is Evan Lee. He likes to learn.
 
 [home]: /
 [about]: /about
+[curio]: /collections/questions
