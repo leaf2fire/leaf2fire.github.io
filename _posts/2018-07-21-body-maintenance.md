@@ -10,40 +10,33 @@ maintaining and training my body.
 
 # Strength
 
-**Current Routine MWF**
+**Daily**
 
-For any exercise, if fatigued or unable to keep pace, move to an easier
-progression.
+**CSRR** | **Exercise**
+:---: | ---
+-/3/3/- | Pullups.
+-/3/5/- | Pseudo-planche pushups. Get shoulders ahead of hands as much as possible. Ensure shoulder movement is strictly vertical.
+
+Greasing the groove exercises I do every day to improve efficiency, form, and
+rep count. Since I'm performing these daily, I skip over similar exercises in my
+current routine below.
+
+**Current Routine MWF**
 
 **CSRR** | **Exercise**
 :---: | ---
 A/3/6/60s | Pistol squats.
-A/3/6/60s | Arch hangs. Hold at the top for 2s.
+A/3/6/60s | (**Skip** GtG pullups.) Arch hangs. Hold at the top for 2s.
 B/3/8/60s | Single legged deadlift. Isolate movements.
 B/3/12/60s | Assisted dips (parallettes). Elbows in.
-C/3/8/60s | Assisted pseudo-planche pushups (paralletes). Keep elbows on top of hands.
-C/3/6/60s | Inclined rows.
+C/3/12/60s | (**Skip** GtG pushups.) Diamond pushups.
+C/3/5/60s | One arm inclined rows.
 D/3/12/60s | Reverse crunches. Straighten legs and back as much as possible.
-D/3/8/60s | Copenhagen twist. Start with Copenhagen plank and twist to touch opposite elbow to ground and back to plank. Core should remain static.
+D/3/8/60s | One arm plank. Lift opposite leg off ground for reps.
 D/3/8/60s | Arch raises.
 
-**Daily**
-
-Greasing the groove exercises I do every day.
-
-For exercises that require max effort, the goal is to do the exercises without
-exerting max effort. Since max effort or close to max effort is required to
-perform these exercises, doing many of them in a short period of time risks
-injury. Therefore, I chose to do them throughout the day with relatively low
-reps.
-
-On the other hand, for exercises that don't require max effort, the goal is to
-increase rep count.
-
-**CSRR** | **Exercise**
-:---: | ---
--/3/2/- | Pullups.
-
+For any exercise, if fatigued or unable to keep pace, move to an easier
+progression. These exercises are for building and maintaining strength.
 
 **Resources**
 
@@ -56,12 +49,10 @@ increase rep count.
 
 **Current Routine TTSS**
 
-Alternate between bumping (~12 count) and holds (~24 seconds).
-
 **Time** | **Stretch**
 --- | ---
-2m | Shoulder Backbend
-2m | Spine Backbend
+2m | Inverted Shoulder Backbend
+2m | Inverted Spine Backbend
 2m | Rear Hand Clasp
 2m | Lying Cross
 2m | Wrist-Biceps Stretch
@@ -71,11 +62,18 @@ Alternate between bumping (~12 count) and holds (~24 seconds).
 2m | Butterfly
 2m | Calf Stretch
 
+Alternate between bumping (~12 count) and holds (~24 seconds).
+
+* Reverse Prayer Pose
+* Seiza except lying down
+
 **Resources**
 
 [/r/flexibility](https://www.reddit.com/r/flexibility/)
 
 * [Starting to Stretch](https://www.reddit.com/r/flexibility/wiki/starting_to_stretch)
+
+List of asanas ([Wikipedia](https://en.wikipedia.org/wiki/List_of_asanas))
 
 # Skills
 
@@ -98,3 +96,4 @@ Focus on developing only a few skills at a time.
 
 * **ROM** -- Range of motion
 * **CSRR** -- Circuit / Sets / Reps / Rest
+* **GtG** -- Greasing the groove
