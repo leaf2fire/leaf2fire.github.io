@@ -19,6 +19,8 @@ permalink: /:categories/questions/emacs
 
 Sources: [EmacsWiki][FillColumnIndicator]
 
+
+
 ---
 # Eliminating Whitespace Ambiguities
 

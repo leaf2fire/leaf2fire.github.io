@@ -6,9 +6,13 @@ permalink: /about
 
 # Author
 
-The author is Evan Lee. He likes to learn.
+The author is Evan Lee (evnL, evn, leaf2fire). He is currently interested in
+cognitive science and perceptual learning as they relate to language, music,
+drawing, math, games, cooking, fitness, etc. Pretty much anything that can be
+perceived including perception itself.
 
-**Aliases**: `evnL`, `evn`, `leaf2fire`
+He enjoys anime and reading. He is always open to new ideas (supported by
+consistent reasoning).
 
 # Site Overview
 

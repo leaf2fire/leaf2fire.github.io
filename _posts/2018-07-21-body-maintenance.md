@@ -8,6 +8,16 @@ Maintaining and training a physical body is important, because that is the
 medium which we experience the world. Here, I document my current methods for
 maintaining and training my body.
 
+# Cardio
+
+**Aerobic**
+
+Breathing should be relaxed, silent, slow, deep, and nasal.
+
+**Resources**
+
+* [You NEED Long Duration, Low Intensity Cardio](http://robertsontrainingsystems.com/blog/long-duration-low-intensity-cardio/)
+
 # Strength
 
 **Daily**
@@ -25,12 +35,12 @@ current routine below.
 
 **CSRR** | **Exercise**
 :---: | ---
-A/3/6/60s | Pistol squats.
+A/3/6/60s | Pistol squats. Weave in toe raises.
 A/3/6/60s | (**Skip** GtG pullups.) Arch hangs. Hold at the top for 2s.
-B/3/8/60s | Single legged deadlift. Isolate movements.
+B/3/8/60s | Single legged deadlift. Isolate movements. Weave in toe raises.
 B/3/12/60s | Assisted dips (parallettes). Elbows in.
 C/3/12/60s | (**Skip** GtG pushups.) Diamond pushups.
-C/3/5/60s | One arm inclined rows.
+C/3/6/60s | One arm inclined rows.
 D/3/12/60s | Reverse crunches. Straighten legs and back as much as possible.
 D/3/8/60s | One arm plank. Lift opposite leg off ground for reps.
 D/3/8/60s | Arch raises.
@@ -56,6 +66,7 @@ progression. These exercises are for building and maintaining strength.
 2m | Rear Hand Clasp
 2m | Lying Cross
 2m | Wrist-Biceps Stretch
+2m | Seiza + Reverse Prayer
 2m | One-Leg Pike
 2m | Kneeling Lunge
 2m | Pancake
@@ -64,9 +75,6 @@ progression. These exercises are for building and maintaining strength.
 
 Alternate between bumping (~12 count) and holds (~24 seconds).
 
-* Reverse Prayer Pose
-* Seiza except lying down
-
 **Resources**
 
 [/r/flexibility](https://www.reddit.com/r/flexibility/)
@@ -74,6 +82,8 @@ Alternate between bumping (~12 count) and holds (~24 seconds).
 * [Starting to Stretch](https://www.reddit.com/r/flexibility/wiki/starting_to_stretch)
 
 List of asanas ([Wikipedia](https://en.wikipedia.org/wiki/List_of_asanas))
+
+# Balance
 
 # Skills
 
@@ -87,6 +97,15 @@ Focus on developing only a few skills at a time.
 
 **Skill List**
 
+* Horizontal split
+* Vertical split
+* Pancake
+* Full pike
+* Rear hand clasp, wrist grab
+* Bridge
+* L-sit
+* Straddle L-sit
+* V-sit
 * Manna
 * Back lever
 * Dragon flag
@@ -94,6 +113,7 @@ Focus on developing only a few skills at a time.
 
 # Acronyms
 
-* **ROM** -- Range of motion
 * **CSRR** -- Circuit / Sets / Reps / Rest
 * **GtG** -- Greasing the groove
+* **HIIT** -- High-intensity interval training
+* **ROM** -- Range of motion
