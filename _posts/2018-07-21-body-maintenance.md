@@ -8,6 +8,8 @@ Maintaining and training a physical body is important, because that is the
 medium which we experience the world. Here, I document my current methods for
 maintaining and training my body.
 
+# Balance
+
 # Cardio
 
 **Aerobic**
@@ -24,7 +26,7 @@ Breathing should be relaxed, silent, slow, deep, and nasal.
 
 **CSRR** | **Exercise**
 :---: | ---
--/3/3/- | Pullups.
+-/3/4/- | Pullups.
 -/3/5/- | Pseudo-planche pushups. Get shoulders ahead of hands as much as possible. Ensure shoulder movement is strictly vertical.
 
 Greasing the groove exercises I do every day to improve efficiency, form, and
@@ -110,6 +112,8 @@ Focus on developing only a few skills at a time.
 * Back lever
 * Dragon flag
 * Dragon press
+* Handstand pushup
+* Tiger bend handstand pushup
 
 # Acronyms
 
