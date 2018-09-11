@@ -1,20 +1,23 @@
 ---
-title: Body Maintenance and Training
+title: Body Maintenance and Improvement
 categories: collections
 permalink: /:categories/body-maintenance
 ---
 
-Maintaining and training a physical body is important, because that is the
-medium which we experience the world. Here, I document my current methods for
-maintaining and training my body.
+> We experience the world through our bodies. A better body leads to better
+> experiences. Achieving a better body takes effort, knowledge, and discipline.
 
 # Balance
 
 # Cardio
 
+AKA heart or cardiovascular training. This will allow us to improve our means of
+transportation.
+
 **Aerobic**
 
-Breathing should be relaxed, silent, slow, deep, and nasal.
+Breathing should be relaxed, silent, slow, deep, and nasal. Talking and laughing
+can be done without shortness of breath.
 
 **Resources**
 
@@ -37,14 +40,11 @@ current routine below.
 
 **CSRR** | **Exercise**
 :---: | ---
-A/3/6/60s | Pistol squats. Weave in toe raises.
-A/3/6/60s | (**Skip** GtG pullups.) Arch hangs. Hold at the top for 2s.
-B/3/8/60s | Single legged deadlift. Isolate movements. Weave in toe raises.
-B/3/12/60s | Assisted dips (parallettes). Elbows in.
-C/3/12/60s | (**Skip** GtG pushups.) Diamond pushups.
-C/3/6/60s | One arm inclined rows.
-D/3/12/60s | Reverse crunches. Straighten legs and back as much as possible.
-D/3/8/60s | One arm plank. Lift opposite leg off ground for reps.
+A/3/6/60s | Pistol squats.
+B/3/8/60s | Single legged deadlift. Isolate movements.
+B/3/12/60s | Assisted dips (parallettes). Elbows in. Waiting for dip bars.
+C/3/8/60s | Declined pike pushups.
+D/3/12/60s | Reverse crunches. Straighten legs and hip as much as possible.
 D/3/8/60s | Arch raises.
 
 For any exercise, if fatigued or unable to keep pace, move to an easier
@@ -84,8 +84,6 @@ Alternate between bumping (~12 count) and holds (~24 seconds).
 * [Starting to Stretch](https://www.reddit.com/r/flexibility/wiki/starting_to_stretch)
 
 List of asanas ([Wikipedia](https://en.wikipedia.org/wiki/List_of_asanas))
-
-# Balance
 
 # Skills
 

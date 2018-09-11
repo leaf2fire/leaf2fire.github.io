@@ -46,6 +46,8 @@ Questions related to a specific domain or tool.
 
 # Inactive Questions
 
+**Grammar is a consequence of a mature language.**
+
 **Subvocalization is perhaps one of the most important aspects in human
   evolution. Voluntary subvisualization would be nice to have too.**
 

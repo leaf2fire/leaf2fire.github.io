@@ -20,3 +20,6 @@ Sometimes, I find some very interesting words.
 **Lacuna** -- Pronounced "la-Q-na". Reminded me of "Hakuna Matata" from *The
   Lion King*. It means an unfilled space, interval, or gap. First seen in *I Am
   a Strange Loop*.
+
+**Ennui** -- From Google Dictionary, "a feeling of listlessness and
+dissatisfaction arising from a lack of occupation or excitement."
