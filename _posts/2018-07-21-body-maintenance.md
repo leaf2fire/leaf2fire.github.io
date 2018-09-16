@@ -1,6 +1,7 @@
 ---
 title: Body Maintenance and Improvement
 permalink: /:categories/body-maintenance
+date: 2018-09-13
 categories:
   - collections
 tags:
@@ -79,6 +80,7 @@ Focus on developing only a few skills at a time.
 * Planche
 * Front lever
 * Press to handstand
+* Pikes and pancakes
 
 **Skill List**
 
@@ -104,10 +106,11 @@ Focus on developing only a few skills at a time.
 
 **Sets** | **Reps** | **Exercise**
 :---: | :---: | ---
+3 | 30s | Dead hangs.
+3 | 30s | One arm plank.
 3 | 6 | Pistol squats.
 3 | 8 | Declined pike pushups.
 3 | 8 | Single legged deadlift. Isolate each movement.
-3 | 12 | Assisted dips (parallettes). Elbows in. Waiting for dip bars.
 3 | 12 | Reverse crunches. Straighten legs and hip as much as possible.
 3 | 8 | Arch raises.
 
@@ -148,7 +151,7 @@ jump rate.
 **Sets** | **Reps** | **Exercise**
 :---: | :---: | ---
 3 | 5 | Pullups. Work on L-sit variation.
-3 | 8 | Pseudo-planche pushups. Get shoulders ahead of hands as much as possible. Ensure shoulder movement is strictly vertical.
+3 | 6 | Pseudo-planche pushups. Get shoulders ahead of hands as much as possible. Ensure shoulder movement is strictly vertical.
 
 Do these exercises with the aim to improve efficiency, form, and rep count.
 

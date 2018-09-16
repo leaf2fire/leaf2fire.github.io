@@ -1,9 +1,16 @@
 ---
 title: Questions
-categories: collections
-tags: questions
 permalink: /:categories/questions
+date: 2018-09-13
+categories:
+  - collections
+tags:
+  - questions
 ---
+
+Questions, considerations, and ideas for the future.
+
+## Reasoning
 
 Many questions need to be answered on a daily basis. Having most of them
 answered beforehand saves time and needless effort. Some questions appear so
@@ -21,86 +28,97 @@ in comparison to newer solutions. One of the main problems of new solutions is
 that their adoption is slow. Given two solutions to the same question, people
 will often choose the more familiar one until that one stops working. And it
 might not ever stop working. If the solutions were laid side-by-side, the better
-one should more immediately standout. A proper comparison of the two solutions
+one should more immediately stand out. A proper comparison of the two solutions
 requires documentation of both.
 
 There are also questions whose meanings change. The meaning of a question
 definitely varies from person to person. It also varies from moment to
-moment. This kind of variance is troublesome, because a close solution might not
-be a solution at all. Fortunately, the solution of a question helps inform the
-meaning of the question. Knowing more about the meaning of a question makes the
-wording of the question easier to adjust, which hopefully brings the desired
-solution closer.
+moment. This kind of variance is troublesome, because a solution that is close
+might not be a solution at all. Fortunately, the solution of a question helps
+inform the meaning of the question. Knowing more about the meaning of a question
+makes the wording of the question easier to adjust, which hopefully brings the
+desired solution closer.
 
-# Question Subjects
+## Question Subjects
 
 Questions related to a specific domain or tool.
 
 * [Emacs](./emacs)
 
-# Active Questions
+## Questions
 
-**What if individual characters in DOM text nodes can be treated like nodes?**
+### Why were tables and chairs created?
 
-**What is wrong with the decision making process that preceded zoning?**
+Maybe there are better ways to sit for prolonged periods of time. According to
+Wikipedia, writing is one of the reasons. Elevating objects is obvious.
 
-# Inactive Questions
+### What if individual characters in DOM text nodes can be treated like nodes?
 
-**Grammar is a consequence of a mature language.**
+I suppose performance would certainly be a limiting factor, but interactive text
+would certainly be interesting.
 
-**Subvocalization is perhaps one of the most important aspects in human
-  evolution. Voluntary subvisualization would be nice to have too.**
+### What is wrong with the decision making process that preceded zoning?
 
-**Timer that doesn't require you to look at it to tell the time and isn't
-  annoying either.**
+Zoning as in splitting up land for specific uses such as residential, business,
+public, etc. Why can't we handle land use on an individual basis?
 
-**Every kitchen counter needs a small hole to discard scraps and other trash
-  into.**
+### Grammar is a consequence of a mature language.
 
-**Device that detects a notifies you that your toilet has not flushed correctly
-  and is wasting water.**
+Does a grammar need a language or does a language need a grammar?
 
-**Counting without subvocalization.**
+### Subvocalization is amazing.
 
-**Reasons someone might be staring at a wall.**
+Voluntary subvisualization would be nice to have too.
 
-**What is the resolution of human vision?**
+### Timers for the blind?
 
-**Are boxes and parallelepipeds indistinguishable under 2d projection?**
+Pretty sure I was looking for special kind of interval timer with metronome like
+functionality.
 
-**Shoes off or shoes on inside home?**
+### Every kitchen counter needs a built in hole for trash.
+
+I should be able to simply slide the trash right in.
+
+### Activities where subvocalization is not necessary but we do anyways.
+
+Counting. Reading.
+
+### Reasons someone might be staring at a wall.
+
+I've unintentionally stared at a couple of brick walls before. I was actually
+looking at the tiny flora and fauna that reside on the wall. The clover mites
+usually get my attention, but the moss is certainly interesting as well.
+
+### What is the resolution of human vision?
+
+### Are boxes and parallelepipeds indistinguishable under 2d projection?
+
+Looking for a semi-formal proof.
+
+### Shoes off or shoes on inside home?
 
 Shoes off. Maybe special rooms where shoes are ok.
 
-**Kinds of flushes toilets should have.**
+### Device that tells you if your toilet has not flushed properly.
+
+I'd rather not waste water.
+
+### Kinds of flushes toilets should have.
 
 Big and small. Save water.
 
-**How long can sea turtles stay under water?**
+### How long can sea turtles stay under water?
 
 Around 5-40 minutes while foraging and 4-7 hours while resting
 ([Wikipedia][SeaTurtleUnderWater]).
 
-**JavaScript Essentials**
-
-* [nodejs](https://nodejs.org/)
-* [npmjs](https://www.npmjs.com/)
-* [bower](https://bower.io/)
-* [reactjs](https://reactjs.org/)
-* [TypeScript](https://www.typescriptlang.org/)
-
-**Programming languages style guides and best practices.**
-
-* `C++` [C++ Core Guidelines][CppCoreGuide]
-* `JavaScript` [Airbnb JavaScript Style Guide][AirbnbJSStyle]
-
-**Use Super instead of Alt in Xmonad keybindings.**
+### Use Super instead of Alt in Xmonad keybindings.
 
 Add `modMask = mod4Mask`.
 
 Sources: [ArchWiki][ArchXmonad]
 
-**Is carpet worth it?**
+### Is carpet worth it?
 
 Carpet is an alternative to wood, tiled, and other hard surfaced floors. Unlike
 other traditional floors, carpet is soft and textured. There are three reasons
@@ -114,6 +132,4 @@ I can argue for carpet all I want, but as soon as I find tackless strips across
 my thresholds is the moment I despise carpet. Just give me hard floors and rugs.
 
 [ArchXmonad]: https://wiki.archlinux.org/index.php/Xmonad#Configuration
-[CppCoreGuide]: http://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines
-[AirbnbJSStyle]: https://github.com/airbnb/javascript
 [SeaTurtleUnderWater]: https://en.wikipedia.org/wiki/Sea_turtle#Diving_physiology

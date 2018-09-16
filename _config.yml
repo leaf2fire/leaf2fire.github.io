@@ -9,7 +9,7 @@ locale                   : "en-US"
 title                    : "evnL"
 title_separator          : "-"
 name                     : "Evan Lee"
-description              : "An amazing website."
+description              : "A blog rooted in curiosity and self discovery."
 url                      : "https://evnl.me"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "leaf2fire/leaf2fire.github.io"
@@ -96,8 +96,8 @@ analytics:
 author:
   name             : "Evan Lee"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
+  bio              : "Just a curious engineer who lives vicariously through anime."
+  location         :
   email            :
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
@@ -201,7 +201,7 @@ sass:
 
 # Outputting
 permalink: /:categories/:title/
-paginate: 6 # amount of posts to show
+paginate: 10 # amount of posts to show
 paginate_path: /page:num/
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 

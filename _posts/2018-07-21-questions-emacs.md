@@ -1,8 +1,12 @@
 ---
 title: Emacs Questions
-categories: collections
-tags: questions emacs
 permalink: /:categories/questions/emacs
+date: 2018-09-16
+categories:
+  - collections
+tags:
+  - questions
+  - emacs
 ---
 
 # Active Questions
@@ -19,16 +23,17 @@ permalink: /:categories/questions/emacs
 
 Sources: [EmacsWiki][FillColumnIndicator]
 
+# Cursor Movement
 
 
----
+
 # Eliminating Whitespace Ambiguities
 
 What's the difference between a tab width number of spaces and a tab? What's the
 difference between a line with and without trailing whitespace? For most text
 editors, visually deducing these differences is impossible, because both cases
-are visually identical. Being able to visually tell these differences at glance
-is critical to navigate through code and text more predictably.
+are visually identical. Being able to visually tell these differences at a
+glance is critical to navigate through code and text more predictably.
 
 Adding the following snippet inside the Emacs init file eliminates the
 whitespace ambiguities mentioned earlier by making each case visually
@@ -50,8 +55,6 @@ Almost all text-based files have no use for trailing whitespace syntactically or
 semantically. Save some key-strokes by automatically deleting trailing
 whitespace before saving [(EmacsWiki)][DeletingWhiteSpace].
 
-Add the following to the Emacs init file:
-
 {% highlight elisp %}
 (add-hook 'before-save-hook 'delete-trailing-whitespace)
 {% endhighlight %}
@@ -59,14 +62,15 @@ Add the following to the Emacs init file:
 See [Indenting and Tabbing](#indenting-and-tabbing) for details on how to
 control when tabs appear.
 
----
+[WhiteSpace]: https://www.emacswiki.org/emacs/WhiteSpace
+[DeletingWhiteSpace]: https://www.emacswiki.org/emacs/DeletingWhitespace
+
 # Selecting
 
 * select word, line, block, paragraph, all
 * select rectangle
 * edit selection
 
----
 # Indenting and Tabbing
 
 * Insert <tab>
@@ -85,8 +89,6 @@ Sources: [EmacsWiki][NoTabs]
 **Select all**.
 
 `C-x h`
-
-
 
 **Keyboard macros.**
 
@@ -117,11 +119,10 @@ defaults.
 
 Sources: [Stack Overflow][ReloadEmacsInit]
 
-[DeletingWhiteSpace]: https://www.emacswiki.org/emacs/DeletingWhitespace
 [ReloadEmacsInit]: https://stackoverflow.com/questions/2580650/how-can-i-reload-emacs-after-changing-it
 [FillCommands]: https://www.gnu.org/software/emacs/manual/html_node/emacs/Fill-Commands.html
 [RectangleCommands]: https://www.gnu.org/software/emacs/manual/html_node/emacs/Rectangles.html
 [BasicMacros]: https://www.gnu.org/software/emacs/manual/html_node/emacs/Basic-Keyboard-Macro.html
-[WhiteSpace]: https://www.emacswiki.org/emacs/WhiteSpace
+
 [FillColumnIndicator]: https://www.emacswiki.org/emacs/FillColumnIndicator
 [NoTabs]: https://www.emacswiki.org/emacs/NoTabs
