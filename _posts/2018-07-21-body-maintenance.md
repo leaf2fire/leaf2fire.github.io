@@ -108,8 +108,8 @@ Focus on developing only a few skills at a time.
 :---: | :---: | ---
 3 | 30s | Dead hangs.
 3 | 30s | One arm plank.
-3 | 6 | Pistol squats.
 3 | 8 | Declined pike pushups.
+3 | 6 | Pistol squats.
 3 | 8 | Single legged deadlift. Isolate each movement.
 3 | 12 | Reverse crunches. Straighten legs and hip as much as possible.
 3 | 8 | Arch raises.
@@ -150,6 +150,7 @@ jump rate.
 
 **Sets** | **Reps** | **Exercise**
 :---: | :---: | ---
+2 | 60s | Inversions. Hand stands, forearm stands, etc.
 3 | 5 | Pullups. Work on L-sit variation.
 3 | 6 | Pseudo-planche pushups. Get shoulders ahead of hands as much as possible. Ensure shoulder movement is strictly vertical.
 

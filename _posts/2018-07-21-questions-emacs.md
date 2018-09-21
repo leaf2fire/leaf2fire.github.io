@@ -23,8 +23,62 @@ tags:
 
 Sources: [EmacsWiki][FillColumnIndicator]
 
-# Cursor Movement
+# Emacs Bookmarks
 
+* [GNU Emacs Manual](https://www.gnu.org/software/emacs/manual/html_node/emacs/index.html)
+* [EmacsWiki](https://www.emacswiki.org/)
+
+## Text Insertion
+
+Keys | Command
+--- | ---
+`C-q` | `quoted-insert`
+
+### Insert newline
+
+Keys | Command | Details
+--- | --- | ---
+`RET` | `newline` | Indents after new line
+`C-j` | | New line only
+
+### Erasing Text
+
+Keys | Command | Details
+--- | --- | ---
+`<DEL>` | `delete-backward-char` | Delete before point
+`C-d` | `delete-char` | Delete after point
+
+## Cursor Movement
+
+Keys | Command | Unit
+--- | --- | ---
+`C-f` | `forward-char` | Character
+`C-b` | `backward-char` | Character
+`M-f` | `forward-word` | Word
+`M-b` | `backward-word` | Word
+`C-a` | `move-beginning-of-line` | Line
+`C-e` | `move-end-of-line` | Line
+`C-n` | `next-line` | Line
+`C-p` | `previous-line` | Line
+`M-r` | `move-to-window-line-top-bottom` | Screen
+`M-<` | `beginning-of-buffer` | Buffer
+`M->` | `end-of-buffer` | Buffer
+
+## Screen Movement
+
+Keys | Command | Unit
+--- | --- | ---
+`C-v` | `scroll-up-command` | Screen
+`M-v` | `scroll-down-command` | Screen
+`C-l` | | Screen
+
+## Search
+
+Keys | Command | Type
+--- | --- | ---
+`M-g c` | | Character index
+`M-g <TAB>` | | Column index
+`M-g g` | `goto-line` | Line index
 
 
 # Eliminating Whitespace Ambiguities
