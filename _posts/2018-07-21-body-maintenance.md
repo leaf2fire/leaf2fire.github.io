@@ -1,7 +1,7 @@
 ---
 title: Body Maintenance and Improvement
 permalink: /:categories/body-maintenance
-date: 2018-09-13
+date: 2018-09-21
 categories:
   - collections
 tags:
@@ -106,13 +106,13 @@ Focus on developing only a few skills at a time.
 
 **Sets** | **Reps** | **Exercise**
 :---: | :---: | ---
-3 | 30s | Dead hangs.
-3 | 30s | One arm plank.
+3 | 40s | Dead hangs. (one arm hang, arch hangs, tucked front lever, etc.)
+3 | 40s | One arm plank. (archer pushups?)
 3 | 8 | Declined pike pushups.
 3 | 6 | Pistol squats.
 3 | 8 | Single legged deadlift. Isolate each movement.
 3 | 12 | Reverse crunches. Straighten legs and hip as much as possible.
-3 | 8 | Arch raises.
+3 | 12 | Arch raises.
 
 For any exercise, if fatigued or unable to keep pace, move to an easier
 progression. These exercises are for building and maintaining strength.
@@ -151,8 +151,10 @@ jump rate.
 **Sets** | **Reps** | **Exercise**
 :---: | :---: | ---
 2 | 60s | Inversions. Hand stands, forearm stands, etc.
-3 | 5 | Pullups. Work on L-sit variation.
-3 | 6 | Pseudo-planche pushups. Get shoulders ahead of hands as much as possible. Ensure shoulder movement is strictly vertical.
+3 | 6 | Pullups. Work on L-sit variation.
+3 | 20s | Tucked planche.
+3 | 12 | Shoulder dislocates.
+3 | 20s | L-sits.
 
 Do these exercises with the aim to improve efficiency, form, and rep count.
 

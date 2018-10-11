@@ -47,6 +47,12 @@ Questions related to a specific domain or tool.
 
 ## Questions
 
+### Food preservation methods in the home?
+
+I like sour foods. I also like long shelf life. Definitely want to figure out
+how to pickle and preserve various ingredients without investing too heavily
+into tools.
+
 ### Why were tables and chairs created?
 
 Maybe there are better ways to sit for prolonged periods of time. According to
