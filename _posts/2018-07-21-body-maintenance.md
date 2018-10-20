@@ -146,15 +146,20 @@ nonstop and slow down if breathing isn't relaxed. Once I'm able to jump rope
 nonstop with relaxed breathing, slowly increase duration (30 minute target) and
 jump rate.
 
+Right now, the limiting factor of jump roping is lactic acid build up and
+subsequent fatique in my calves. I'm currently testing other cardio exercises
+that focus more on my vascular system than my muscles.
+
 ### Greasing the Groove
 
 **Sets** | **Reps** | **Exercise**
 :---: | :---: | ---
 2 | 60s | Inversions. Hand stands, forearm stands, etc.
-3 | 6 | Pullups. Work on L-sit variation.
-3 | 20s | Tucked planche.
+3 | 7 | Pullups. Work on L-sit variation.
+3 | 25s | Tucked planche.
 3 | 12 | Shoulder dislocates.
-3 | 20s | L-sits.
+3 | 25s | L-sits.
+| | Shoulder rolls except the body moves instead of the shoulders. Below, above, front and behind.
 
 Do these exercises with the aim to improve efficiency, form, and rep count.
 
