@@ -107,7 +107,7 @@ Focus on developing only a few skills at a time.
 **Sets** | **Reps** | **Exercise**
 :---: | :---: | ---
 3 | 40s | Dead hangs. (one arm hang, arch hangs, tucked front lever, etc.)
-3 | 40s | One arm plank. (archer pushups?)
+3 | 5 | Inclined one arm pushups.
 3 | 8 | Declined pike pushups.
 3 | 6 | Pistol squats.
 3 | 8 | Single legged deadlift. Isolate each movement.
@@ -156,7 +156,7 @@ that focus more on my vascular system than my muscles.
 :---: | :---: | ---
 2 | 60s | Inversions. Hand stands, forearm stands, etc.
 3 | 7 | Pullups. Work on L-sit variation.
-3 | 25s | Tucked planche.
+3 | 25s | Pike pushup lower hold.
 3 | 12 | Shoulder dislocates.
 3 | 25s | L-sits.
 | | Shoulder rolls except the body moves instead of the shoulders. Below, above, front and behind.
