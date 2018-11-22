@@ -62,6 +62,7 @@ Max heart rate hit. Feels painful but at the same time surreal.
 * [/r/bodyweightfitness](https://www.reddit.com/r/bodyweightfitness/)
 * [Recommended Routine](https://www.reddit.com/r/bodyweightfitness/wiki/kb/recommended_routine)
 * [Reverse crunches](https://www.reddit.com/r/bodyweightfitness/comments/8xtaui/heres_how_to_do_reverse_crunches_and_take_them_to/)
+* [Handstand pushups](https://youtu.be/tQhrk6WMcKw)
 
 ## Flexibility and Mobility
 
@@ -77,27 +78,27 @@ Focus on developing only a few skills at a time.
 
 **Skill Goals**
 
-* Planche
-* Front lever
-* Press to handstand
-* Pikes and pancakes
+* Handstand pushup
+* V-sit
+* Pikes
+* Pancakes
 
 **Skill List**
 
+* Planche
 * Horizontal split
 * Vertical split
-* Pancake
 * Full pike
 * Rear hand clasp, wrist grab
 * Bridge
 * L-sit
 * Straddle L-sit
-* V-sit
 * Manna
+* Press to handstand
+* Front lever
 * Back lever
 * Dragon flag
 * Dragon press
-* Handstand pushup
 * Tiger bend handstand pushup
 
 # Routines
@@ -106,13 +107,17 @@ Focus on developing only a few skills at a time.
 
 **Sets** | **Reps** | **Exercise**
 :---: | :---: | ---
-3 | 40s | Dead hangs. (one arm hang, arch hangs, tucked front lever, etc.)
+3 | 2 | Tucked front lever rows.
 3 | 5 | Inclined one arm pushups.
-3 | 8 | Declined pike pushups.
+3 | 8 | Diamond pushups.
+3 | 5 | Pull ups. Chin ups. Wide pull ups.
+3 | 8 | Pike pushups.
 3 | 6 | Pistol squats.
-3 | 8 | Single legged deadlift. Isolate each movement.
-3 | 12 | Reverse crunches. Straighten legs and hip as much as possible.
+3 | 4 | Single legged deadlift. Isolate each movement. Arms extended.
+3 | 12 | Leg lifts. Reverse crunches.
 3 | 12 | Arch raises.
+
+Hold the "down" portion for push and "up" portion for pull for 3 counts.
 
 For any exercise, if fatigued or unable to keep pace, move to an easier
 progression. These exercises are for building and maintaining strength.
@@ -122,15 +127,16 @@ progression. These exercises are for building and maintaining strength.
 **Time** | **Stretch**
 --- | ---
 2m | Inverted Shoulder Backbend
-2m | Inverted Spine Backbend
+2m | Inverted Spine Backbend (x)
 2m | Rear Hand Clasp
 2m | Lying Cross
 2m | Wrist-Biceps Stretch
 2m | Seiza + Reverse Prayer
-2m | One-Leg Pike
+2m | One-Leg Pike (+)
 2m | Kneeling Lunge
 2m | Pancake
-2m | Butterfly
+2m | Butterfly (leg lateral rotation)
+2m | (leg medial rotation)
 2m | Calf Stretch
 
 Alternate between bumps (~12 count) and holds (~12 seconds). For example, do
@@ -154,12 +160,14 @@ that focus more on my vascular system than my muscles.
 
 **Sets** | **Reps** | **Exercise**
 :---: | :---: | ---
+2 | 60s | Dead hangs.
 2 | 60s | Inversions. Hand stands, forearm stands, etc.
-3 | 7 | Pullups. Work on L-sit variation.
-3 | 25s | Pike pushup lower hold.
+3 | 10c | Tucked front lever.
+3 | 15c | Frog stand. Try to separate arms and legs.
+3 | 8 | Declined pike pushup.
 3 | 12 | Shoulder dislocates.
-3 | 25s | L-sits.
-| | Shoulder rolls except the body moves instead of the shoulders. Below, above, front and behind.
+3 | 2 | Skin the cat.
+3 | 45s | Max V-sit 10s. L-sits.
 
 Do these exercises with the aim to improve efficiency, form, and rep count.
 
