@@ -276,3 +276,5 @@ defaults:
       related: true
       toc: true
       toc_label: "Contents"
+
+theme: jekyll-theme-minimal
